@@ -1,3 +1,5 @@
+![Visitor Count](https://profile-counter.glitch.me/imekinox/count.svg)
+
 ### Hi there 👋
 
 <!--
