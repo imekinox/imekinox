@@ -1,19 +1,9 @@
-![Visitor Count](https://profile-counter.glitch.me/imekinox/count.svg)
-
-<table>
-<tr>
-<td width="50%">
-  
 ### Hi there 👋
-  
-</td>
-<td width="50%">
-  
+
+My name is Juan Carlos and I'm CTO at [joinentre](https://joinentre.com/feed), Developer & Entrepreneur. Passionate about web3, creating amazing products, solving problems, and learning new technologies.
+
 [![imekinox-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=imekinox&layout=wide)](https://twitter.com/imekinox)
   
-</td>
-</tr>
-</table>
 <!--
 **imekinox/imekinox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -28,3 +18,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+![Visitor Count](https://profile-counter.glitch.me/imekinox/count.svg)
