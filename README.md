@@ -4,6 +4,8 @@ My name is Juan Carlos and I'm CTO at [joinentre](https://joinentre.com/feed), D
 
 [![imekinox-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=imekinox&layout=wide)](https://twitter.com/imekinox)
   
+<p align="right"><img src="https://profile-counter.glitch.me/imekinox/count.svg" />
+
 <!--
 **imekinox/imekinox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -19,5 +21,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-![Visitor Count](https://profile-counter.glitch.me/imekinox/count.svg)
